@@ -1,1 +1,2 @@
-*.csv binary
+*.csv diff
+*.doc diff
